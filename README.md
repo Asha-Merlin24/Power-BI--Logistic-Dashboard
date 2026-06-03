@@ -1,5 +1,4 @@
-<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/a60c0ed4-bc0e-47cf-a4fe-ad233a05ce07" />
-
+<img width="1363" height="797" alt="image" src="https://github.com/user-attachments/assets/10641699-c9a1-4441-8ec4-2bc3d7675a79" />
 # SwiftRoute Logistics Dashboard
 
 SwiftRoute Logistics Dashboard is a comprehensive Power BI analytics solution developed to provide end-to-end visibility into logistics and supply chain operations. The project transforms operational data into actionable insights, enabling stakeholders to monitor performance, identify bottlenecks, and make informed business decisions.
